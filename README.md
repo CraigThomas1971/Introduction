@@ -1,2 +1,6 @@
-# Introduction
-A little about me
+- A little about me:
+- 👋 Hi, I’m @CraigThomas1971
+- 👀 I’m interested in learning more about AWS
+- 🌱 I’m currently learning how to navigate this application
+- 💞️ I’m looking to collaborate on any and everything with folks willing to help a 50 yr old beginner
+- 📫 How to reach me: craig.noto@gdit.com
